@@ -1,0 +1,20 @@
+h1{
+    color: red
+}
+img{
+     width:400px;
+ }
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: darkkhaki;
+    padding: 50px;
+    border: 10px darkred dotted;
+
+}
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+    justify-content:flex-end
+}
